@@ -50,6 +50,12 @@ section {
     max-width: 60vw;
 }
 
+section img {
+    width: 15vw;
+    height: auto;
+    margin-bottom: 1em;
+}
+
 #intro {
     margin-top: 2em;
     margin-bottom: 2em;
